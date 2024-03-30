@@ -68,6 +68,11 @@
 
 　This study explores the emergence and evolution of hunter guilds as key social institutions in the wake of the 2025 catastrophe, which saw the appearance of portals leading to dungeons filled with dangerous creatures. The authors trace the historical development of hunter guilds in different regions, examining their organizational structures, recruitment practices, and roles in dungeon exploration and monster combat. The findings highlight the significance of hunter guilds as sources of identity, belonging, and support for awakened individuals, as well as their complex relationships with governments, local communities, and each other. The paper discusses the implications of the rise of hunter guilds for social stratification, power dynamics, and the formation of new cultural practices and traditions in the post-catastrophe world.
 
+### • Sakamoto, Y., & Kobayashi, K. (2027). The economics of dungeon raiding: Risk, reward, and resource allocation. *Journal of Economic Behavior & Organization*, 142, 678-692. [PDF](papers/Sakamoto2027/Sakamoto2027.pdf)
+#### Abstract:   
+
+　This paper investigates the economic dynamics of dungeon raiding in the aftermath of the 2025 catastrophe, which saw the emergence of mysterious portals leading to treacherous, enclosed environments filled with valuable resources and powerful creatures. We develop a theoretical model of resource allocation and risk-reward trade-offs in dungeon raiding, taking into account the unique abilities of hunter-awakened individuals and the organizational structures of hunter guilds. Using data from Japanese hunter guilds, we empirically test the model's predictions and find evidence of a positive relationship between dungeon difficulty and resource yields, as well as a significant role of social networks in mitigating information asymmetries and moral hazard problems in guild-based raiding. Our findings highlight the importance of institutional arrangements and market design in shaping the efficiency and equity of the emerging dungeon economy.
+
 
 -------
 *(all the papers are generated using Claude 3)*
