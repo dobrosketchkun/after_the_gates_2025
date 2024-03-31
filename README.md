@@ -1,5 +1,5 @@
 # Project: The World After the Gates
-　This is an artistic exploration of an alternative reality where mysterious portals, known as "Gates," have opened across the globe, leading to dangerous dungeons and the emergence of individuals with extraordinary abilities. This project delves into the social, economic, political, and technological consequences of this event, examining how humanity has adapted and responded to the challenges and opportunities presented by this new reality.    
+　This is an artistic exploration of an alternative reality where mysterious portals, known as "Gates" have opened across the globe, leading to dangerous dungeons and the emergence of individuals with extraordinary abilities. This project delves into the social, economic, political, and technological consequences of this event, examining how humanity has adapted and responded to the challenges and opportunities presented by this new reality.    
 
 
 　Through a collection of research papers, this project aims to provide a glimpse into this alternative world, exploring topics such as the rise of hunter guilds, the impact on traditional industries, the development of new technologies, and the ethical and social implications of the awakened population.  
