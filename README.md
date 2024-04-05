@@ -83,7 +83,10 @@
 
 　In the aftermath of the 2025 catastrophe, which saw the emergence of portals leading to perilous dungeons and the awakening of a small portion of the population with extraordinary abilities, the need for a comprehensive typology of awakened abilities has become increasingly pressing. This paper proposes a classification system based on the Fujita-Sato (F-S) scale, which categorizes abilities according to their power level and potential impact. We review existing research on the nature and distribution of awakened abilities, identify key research gaps, and outline a research agenda for advancing our understanding of this phenomenon. Our findings highlight the importance of interdisciplinary collaboration, longitudinal studies, and the integration of awakened individuals' perspectives in future research efforts.
 
+### • Choi, J. Y., & Park, H. S. (2027). Developing standardized measures for mana and awakened abilities: A psychometric approach. *Journal of Mana and Ability Assessment*. [PDF](papers/Choi2027/choi2027.pdf)
+#### Abstract:   
 
+　In the wake of the 2025 catastrophe, which saw the emergence of dungeon portals and the awakening of a small portion of the population with extraordinary abilities, the need for a comprehensive assessment framework for mana and awakened abilities has become increasingly pressing. This paper proposes a standardized set of measures based on the Fujita-Sato (F-S) scale, which categorizes both dungeons and awakened individuals according to their power levels. We review existing research on the nature and distribution of mana and awakened abilities, identify key research gaps, and outline a psychometric approach for developing and validating the proposed measures. Our findings highlight the importance of a reliable and valid assessment framework for advancing our understanding of these phenomena and informing the training and management of awakened individuals.
 
 -------
 *(all the papers are generated using Claude 3)*
